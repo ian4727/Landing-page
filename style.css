@@ -177,6 +177,14 @@ img {
     border-style: groove;
 }
 
+footer {
+    padding: 30px;
+    background-color: #1f2937;
+    display: flex;
+    color: white;
+    justify-content: center;
+}
+
 
 
 

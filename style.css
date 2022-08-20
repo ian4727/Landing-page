@@ -82,7 +82,6 @@ button {
     border-radius: 10px;
     border: none;
     width: 100px;
-    
 }
 
 
@@ -118,8 +117,7 @@ img {
     justify-content: center;
     align-items: center;
     margin-bottom: 50px;
-    padding-left: 150px;
-    padding-right: 150px;
+   
 }
 
 .imgs {
@@ -127,12 +125,12 @@ img {
     justify-content: center;
     gap: 50px;
     margin-bottom: 50px;
-
+    
 }
 
 .pancake {
-    flex-grow: 2;
     
+    width: 350px;
 }
 
 .info {
@@ -177,8 +175,8 @@ img {
     padding: 100px;
     justify-content: center;
     align-items: center;
-    
-
+    padding-left: 150px;
+    padding-right: 150px;
 }
 
 .call-to-action {
